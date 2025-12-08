@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/639d6_next_dist_compiled_ab53afa4._.js",
+      "static/chunks/639d6_next_dist_shared_lib_feb84597._.js",
+      "static/chunks/639d6_next_dist_client_723b3db9._.js",
+      "static/chunks/639d6_next_dist_900c2cf0._.js",
+      "static/chunks/639d6_next_app_c521f59e.js",
+      "static/chunks/[next]_entry_page-loader_ts_b6d381c5._.js",
+      "static/chunks/639d6_react-dom_78467abc._.js",
+      "static/chunks/639d6_86176e81._.js",
+      "static/chunks/[root-of-the-server]__3aec6cf2._.js",
+      "static/chunks/impreuna_fapte_solidaritate_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-impreuna_fapte_solidaritate_pages__app_effd8c4e._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
