@@ -1,3 +1,0 @@
-module.exports=[86941,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(7224);a.n(d("[project]/impreuna_fapte_solidaritate/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},73335,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(7224);a.n(d("[project]/impreuna_fapte_solidaritate/node_modules/next/dist/client/components/builtin/global-error.js"))},95358,a=>{"use strict";a.i(86941);var b=a.i(73335);a.n(b)}];
-
-//# sourceMappingURL=639d6_next_dist_client_components_builtin_global-error_9c02a20f.js.map

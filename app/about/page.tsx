@@ -164,7 +164,7 @@ export default function About() {
 
             <div className="rounded-2xl p-8 bg-white border-2 border-primary/20 hover:border-primary/50 transition-colors duration-300 hover:shadow-lg">
               <img
-                src="edi.jpg"
+                src="bogdan.jpg"
                 alt="Bogdan Moldovan"
                 className="w-16 h-16 rounded-full object-cover mb-4"
               />

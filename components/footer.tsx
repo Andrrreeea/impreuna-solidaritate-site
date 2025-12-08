@@ -22,7 +22,7 @@ export default function Footer() {
             <p className="text-white/70 mb-4">Fapte de solidaritate pentru persoanele din Timișoara.</p>
             <div className="flex items-center gap-2 text-white/70">
               <Heart className="w-4 h-4 text-primary" />
-              <span className="text-sm">Cu dragoste și dedică</span>
+              <span className="text-sm">Cu dragoste și dedicație</span>
             </div>
           </div>
 
