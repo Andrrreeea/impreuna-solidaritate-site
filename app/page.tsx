@@ -80,7 +80,7 @@ export default function Home() {
               </div>
 
               <p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
-                Colectăm daruri din inimile generoase și le ducem personalor în nevoie din zona Timișoara. Fiecare gest contează.
+                Colectăm daruri din inimile generoase și le ducem persoanelor în nevoie din zona Timișoara. Fiecare gest contează.
                 Fiecare dar este o poveste de speranță.
               </p>
 

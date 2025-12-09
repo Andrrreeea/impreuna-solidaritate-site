@@ -38,7 +38,7 @@ export default function Navigation() {
               alt="Împreună pentru fapte de solidaritate"
               width={50}
               height={50}
-              className="h-12 w-auto hover:scale-105 transition-transform duration-300"
+              className="h-15 w-auto hover:scale-105 transition-transform duration-300"
               priority
             />
           </Link>
