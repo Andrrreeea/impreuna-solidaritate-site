@@ -12,11 +12,11 @@ const campaigns = [
     icon: "🎄",
     color: "from-primary to-accent",
     money: {
-      collected: 1150,
+      collected: 2198,
       target: 3000,
     },
     items: {
-      collected: 20,
+      collected: 25,
       target: 50,
     },
   },
