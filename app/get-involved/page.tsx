@@ -23,7 +23,7 @@ const ways = [
     color: "from-secondary to-primary",
   }, 
   {
-    title: "Recomandă o Familie",
+    title: "Recomandă o Familie sau un Caz",
     description: "Dacă știi o familie aflată în dificultate, spune-ne despre ea ca să o putem ajuta.",
     icon: "📨",
     color: "from-primary to-accent",
@@ -49,7 +49,7 @@ const donationWays = [
     instructions: "Banii donați vor fi folosiți pentru a cumpăra exact ceea ce persoanele au nevoie cel mai mult.",
   },
   {
-    title: "Sugerează o Familie",
+    title: "Sugerează o Familie sau un Caz",
     items: [
       "Identificarea unei familii aflate în dificultate",
       "Transmiterea situației către echipa noastră",
@@ -82,7 +82,7 @@ export default function GetInvolved() {
               <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">modul</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Fiecare modalitate de ajutor este la fel de valoroasă. Alege ceea ce rezonează cu tine.
+              Fiecare campanie necesita diferite forme de sprijin. Fiecare modalitate de ajutor este la fel de valoroasă. Alege ceea ce rezonează cu tine.
             </p>
           </div>
         </div>
@@ -124,7 +124,7 @@ export default function GetInvolved() {
               <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Împreună</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Iată modalitățile concrete prin care poți contribui la această mișcare de solidaritate.
+              Iată modalitățile concrete prin care poți contribui la această mișcare de solidaritate. Asigura-te ca ai citit prezentarea campaniei dorite pentru a înțelege nevoile specifice și a oferi ajutorul potrivit.
             </p>
           </div>
 
