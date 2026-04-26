@@ -23,7 +23,7 @@ const campaigns = [
   },
   {
     id: 2,
-    title: "Crăciun 2024",
+    title: "Crăciun 2025",
     started: false,
     status: "ended",
     description: "Colectare de jucării, cărți și îmbrăcăminte pentru perioada sărbătorilor.",
